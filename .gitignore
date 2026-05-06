@@ -1,0 +1,8 @@
+.venrcnn/
+venv/
+.env/
+__pycache__/
+*.pyc
+
+outputs/
+checkpoints/*.pth
